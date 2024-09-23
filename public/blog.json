@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Starter Plan",
+      "price": 20.00,
+      "currency": "USD",
+      "features": [
+        "Access to gym during staffed hours",
+        "Locker room access",
+        "2 fitness classes per month",
+        "Free parking",
+        "Basic cardio equipment"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Basic Plan",
+      "price": 35.00,
+      "currency": "USD",
+      "features": [
+        "Full gym access during working hours",
+        "Locker room access",
+        "5 fitness classes per month",
+        "Free parking",
+        "Treadmill, cycling, and strength equipment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Standard Plan",
+      "price": 50.00,
+      "currency": "USD",
+      "features": [
+        "Full gym access (7am-10pm)",
+        "Locker room access",
+        "8 fitness classes per month",
+        "Free parking",
+        "Access to sauna",
+        "1 personal training session per month"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Premium Plan",
+      "price": 75.00,
+      "currency": "USD",
+      "features": [
+        "24/7 gym access",
+        "Locker room access",
+        "Unlimited fitness classes",
+        "Free parking",
+        "Access to sauna and steam room",
+        "2 personal training sessions per month",
+        "Nutritional consultations",
+        "Access to pool"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Couple's Plan",
+      "price": 90.00,
+      "currency": "USD",
+      "features": [
+        "Gym access for two people (7am-10pm)",
+        "Locker room access for two",
+        "Unlimited fitness classes for two",
+        "Free parking for two vehicles",
+        "1 personal training session per month (shared)",
+        "Access to sauna and pool"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Family Plan",
+      "price": 120.00,
+      "currency": "USD",
+      "features": [
+        "Gym access for up to 4 family members",
+        "Locker room access for all members",
+        "Unlimited fitness classes",
+        "Free parking for two vehicles",
+        "1 family personal training session per month",
+        "Access to sauna and pool",
+        "Discounted kids’ fitness programs"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "VIP Plan",
+      "price": 150.00,
+      "currency": "USD",
+      "features": [
+        "All Premium Plan benefits",
+        "Unlimited personal training sessions",
+        "Private locker and towel service",
+        "Priority class bookings",
+        "Access to VIP lounge",
+        "Free fitness gear"
+      ]
+    }
+  ]
+  
