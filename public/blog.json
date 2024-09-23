@@ -83,20 +83,7 @@
         "Access to sauna and pool",
         "Discounted kids’ fitness programs"
       ]
-    },
-    {
-      "id": 7,
-      "name": "VIP Plan",
-      "price": 150.00,
-      "currency": "USD",
-      "features": [
-        "All Premium Plan benefits",
-        "Unlimited personal training sessions",
-        "Private locker and towel service",
-        "Priority class bookings",
-        "Access to VIP lounge",
-        "Free fitness gear"
-      ]
     }
+     
   ]
   
